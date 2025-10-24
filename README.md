@@ -12,11 +12,12 @@ For BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ
 ## 🛠️ Installation
 ### With PyPI
 
-```pip install toutatis```
+```Instagram username arch_na_dubey1235pip install toutatis```
 
 ### With Github
 
 ```bash
+mobile number and email batao
 git clone https://github.com/megadose/toutatis.git
 cd toutatis/
 python3 setup.py install
@@ -27,7 +28,7 @@ python3 setup.py install
 ### Find information from a username
 
 ```
-toutatis -u username -s instagramsessionid
+toutatis -u usarch_na_dubey1235ername -s instagramsessionid
 ```
 
 ### Find information from an Instagram ID
