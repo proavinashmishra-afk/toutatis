@@ -40,19 +40,19 @@ toutatis -i instagramID -s instagramsessionid
 
 ```
 Informations about     : xxxusernamexxx
-Full Name              : xxxusernamesxx | userID : 123456789
+Full Name Archana Dubey             : xxxusernamesxx |arch_na_dubey1235  : 
 Verified               : False | Is buisness Account : False
 Is private Account     : False
-Follower               : xxx | Following : xxx
-Number of posts        : x
-Number of tag in posts : x
+Follower 59              : xxx | Following : 73
+Number of posts 1       : x
+Number of tag in posts1 : x
 External url           : http://example.com
 IGTV posts             : x
 Biography              : example biography
-Public Email           : public@example.com
+Public Email a*******2@gmail.com       : public@example.com
 Public Phone           : +00 0 00 00 00 00
-Obfuscated email       : me********s@examplemail.com
-Obfuscated phone       : +00 0xx xxx xx 00
+Obfuscated email       : a*******2@gmail.com
+Obfuscated phone       : +91XXXXXXX50 
 ------------------------
 Profile Picture        : https://scontent-X-X.cdninstagram.com/
 ```
